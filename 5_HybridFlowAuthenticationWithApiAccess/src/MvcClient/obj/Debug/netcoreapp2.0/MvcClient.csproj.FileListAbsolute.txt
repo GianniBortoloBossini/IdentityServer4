@@ -1,0 +1,11 @@
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojAssemblyReference.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb

@@ -1,0 +1,11 @@
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\bin\Debug\netcoreapp2.0\Api.dll
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\bin\Debug\netcoreapp2.0\Api.pdb
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.dll
+K:\Formazione\IdentityServer4\Github\Quickstart\IdentityServer4.Samples\Quickstarts\5_HybridFlowAuthenticationWithApiAccess\src\Api\obj\Debug\netcoreapp2.0\Api.pdb
